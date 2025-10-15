@@ -1,0 +1,201 @@
+BranchID,BranchName,City,Manager
+c55a9bf9-1723-45df-a5ef-d03bb596d342,Branch 1,Sharm El Sheikh,Eman Khalaf
+dabddfdc-edb0-4043-aa45-ced2664b0222,Branch 2,Qena,Hatem Morsi
+134517cd-582a-421b-91f6-0bbc316acc84,Branch 3,El Shorouk,Samir Said
+4c211149-4c6c-4bfb-8f19-5c81cec5d382,Branch 4,Dubai,Hossam Maher
+801eaabe-778f-433f-b653-0ea369eac7b4,Branch 5,Obour,Rania Khalaf
+db960cb7-2624-4807-9b61-71e7d785010a,Branch 6,Helwan,Sherif Maher
+070f69d2-9d91-4468-a9e1-4945bcd43f3b,Branch 7,Kafr El-Sheikh,Nermeen Amin
+8a31fb9f-efa5-4537-babc-8b9b26bf5b5a,Branch 8,Qena,Sherif Morsi
+23362137-d0d6-4eff-80d2-75f55a22de48,Branch 9,El Shorouk,Eman Raouf
+d831f057-d0db-4f00-b183-8c1a7511ff6e,Branch 10,Abu Dhabi,Ola Maher
+256deedf-6487-4a6a-bade-65faf57ec2f1,Branch 11,New Cairo,Samir Amer
+56755331-1b67-4436-9101-8e6a04376f18,Branch 12,Minya,Hossam Amer
+8cb44b5b-8fb9-46e4-8dc0-50675be7d2d2,Branch 13,Helwan,Maged Saad
+aeed777d-9c3f-4efa-a35a-68358f567680,Branch 14,Fayoum,Hatem Amin
+5f473dd5-e253-4b58-a643-5bfe86e6ad37,Branch 15,Hurghada,Sherif Adel
+a342cd55-7649-49b8-9eff-26e74c79d133,Branch 16,Mansoura,Yara Amin
+47ae23d6-f44a-4365-b84f-9c86a9a551a8,Branch 17,Giza,Ola Adel
+e3fb24d2-a3ce-48c3-b7d3-60b53a0a21c0,Branch 18,Tunis,Hossam Adel
+4997d68c-1dc7-4e64-b830-91374b1b2ac8,Branch 19,Luxor,Sherif Raouf
+9424c4a7-d303-4188-8538-93f4e34a469e,Branch 20,Suez,Eman Adel
+a5035306-081d-44e8-8f19-23234ddb94ba,Branch 21,New Cairo,Sherif Maher
+cd957663-9f0d-4578-aad9-ec69da5d362a,Branch 22,Kafr El-Sheikh,Rana Said
+3e3af2c3-bacf-4f51-a09a-39ed490ef69c,Branch 23,El Shorouk,Sherif Saad
+05e0435c-4dc0-49ab-be5c-bb60174137a5,Branch 24,Tunis,Hossam Amin
+61347d5a-4b57-4a57-a660-81a4a66ce2d3,Branch 25,Port Said,Nermeen Shoukry
+1b538fc7-10f8-4277-8c1a-1aee62a52215,Branch 26,Doha,Samir Raouf
+06f68983-1e46-4d1c-9fa6-1b2aed0c231d,Branch 27,Alexandria,Rania Maher
+ec0d92ed-1f5e-4f1b-bf67-cda5799052af,Branch 28,Luxor,Rana Morsi
+2047440f-f0e8-469c-bea6-3020467f32a4,Branch 29,Qena,Nermeen Khalaf
+dd6f060b-d691-4e12-813b-9d3f61095e57,Branch 30,El Rehab,Nermeen Morsi
+d8b58569-5cc0-4ccc-92f7-db7c7989dbc9,Branch 31,Amman,Sherif Amin
+cdb14592-2762-4e79-8788-c1fd66353ffd,Branch 32,Abu Dhabi,Maged Amer
+d839e10c-96cc-46f3-8f21-134fc6548d6b,Branch 33,El Gouna,Eman Morsi
+e6be5a2c-0e1a-44f2-8922-d842401c8fbf,Branch 34,El Rehab,Sherif Morsi
+9e09d1a1-82d7-40fe-9ee1-93217af48427,Branch 35,Giza,Hossam Amer
+8e77270f-a270-436e-bb38-18310e50f182,Branch 36,Mansoura,Eman Raouf
+56af5e54-826d-48cd-9fc7-464d4808afc2,Branch 37,Banha,Hatem Maher
+b5b33d3f-e44b-4542-be3e-963c7cc9529f,Branch 38,Madinaty,Eman Morsi
+c0abdca2-5df6-4d17-9b64-fc0bad0adf3f,Branch 39,Amman,Eman Maher
+a88f1a73-dc5f-441d-89be-62e7c9e8a396,Branch 40,Madinaty,Menna Maher
+e6b91095-6ec6-4b0f-92e9-33b32ce2e9f5,Branch 41,Zagazig,Rana Shoukry
+1b74728d-aacb-4d9f-90c0-71d8becae241,Branch 42,Sohag,Hatem Khalaf
+19e0b6cf-5c33-4d62-82eb-0bc4d0fc1be7,Branch 43,Banha,Samir Shoukry
+b7f1ce42-cb9e-4d09-bc57-9103850c4381,Branch 44,Mansoura,Yara Maher
+a6089fd4-e200-44e2-9fb2-cdbfa9b890c4,Branch 45,Tunis,Hatem Lotfy
+8e98f2be-6af5-4e9f-9cc7-923788eeefac,Branch 46,Aswan,Sherif Lotfy
+21396e32-87a9-4ba9-a112-b87fa7d62a03,Branch 47,Abu Dhabi,Maged Amin
+8943e203-3f75-4372-9874-39933b3e1be1,Branch 48,Mansoura,Samir Said
+2cece665-e339-4fb5-afa5-fe31e9dc4184,Branch 49,Sheikh Zayed,Menna Amer
+34f11427-6e1e-4ebf-915c-f7df46128252,Branch 50,Doha,Maged Raouf
+24e92b5e-293e-4f57-b90f-8474cf2ad065,Branch 51,Qena,Samir Raouf
+4f5d269e-9b48-4a1c-a0d0-24e90eae260b,Branch 52,Damietta,Ola Amin
+8649a51e-008b-481f-9cfa-8c5955b14569,Branch 53,Qena,Hatem Lotfy
+cf995c8a-8f2e-470c-9096-cb9ea5dd365a,Branch 54,Fayoum,Ola Amer
+9e39e28e-c265-43c6-9d41-0e6256d5786f,Branch 55,Hurghada,Menna Maher
+cb1de9a0-27a2-459f-b4fc-9f2152152e5b,Branch 56,Port Said,Rana Khalaf
+0e7da50c-2592-4d28-b6d4-26aecd922c44,Branch 57,Jeddah,Samir Raouf
+ef31c1c5-9fc5-42cc-98b7-8c8bef1f2a31,Branch 58,Alexandria,Hatem Hamdy
+2626122f-f425-4abb-9543-a6462b73e1f5,Branch 59,Cairo,Menna Lotfy
+f493eb8d-b665-4a74-96af-13d65125c7f3,Branch 60,6th of October,Hossam Shoukry
+ac977380-3612-4c9c-8052-997131853c72,Branch 61,Damietta,Rania Lotfy
+6c6e00b3-953a-4ec2-a651-f5d749f6a779,Branch 62,El Gouna,Maged Shoukry
+a3e8cda5-2000-421f-a188-8f0a23f6387c,Branch 63,Hurghada,Sherif Said
+138baf66-4f1d-4f76-836b-abdf8cc32feb,Branch 64,Tanta,Rania Saad
+0e03a3de-9270-49de-819c-b5edcd1df066,Branch 65,Hurghada,Menna Hamdy
+975acb3f-bbe0-4993-90d3-471c06a75986,Branch 66,Tanta,Samir Lotfy
+c9765752-f989-4412-9b01-08a9d62f68cc,Branch 67,Damietta,Hatem Said
+c22a8908-b933-4598-a919-ec583239c66e,Branch 68,Riyadh,Nermeen Amer
+e5837bcc-313e-4e99-809e-4f0d50a2c34c,Branch 69,Cairo,Maged Shoukry
+6db00d2f-6317-4363-a912-ed7ba95b2fe6,Branch 70,Ain Sokhna,Rania Hamdy
+a0a50044-9a3a-430a-aefc-7f605493c6d8,Branch 71,Kafr El-Sheikh,Hossam Said
+e7ab1b61-4cfd-4979-9b13-262cc4600aed,Branch 72,Sharm El Sheikh,Rania Saad
+41595aad-211d-4dc0-842a-e8ca81f83be4,Branch 73,Port Said,Menna Raouf
+9605beab-ce9c-4d67-8bae-e0c61b683f77,Branch 74,Madinaty,Eman Amer
+b668532e-3464-4a65-9d4f-9770cf8f8c38,Branch 75,Maadi,Maged Raouf
+e0432229-2178-4093-8751-367c5667ef29,Branch 76,Tunis,Eman Shoukry
+a5a4f7d1-dce2-4a59-a21e-47bd5d400620,Branch 77,Port Said,Sherif Adel
+684f5b65-f084-4803-aa58-272c49e15479,Branch 78,Maadi,Eman Khalaf
+653d1f1a-32c6-4fa8-9909-cf5dbf855819,Branch 79,Cairo,Ola Saad
+0691c3ba-156d-4de8-80b1-b7aa2ba22ad1,Branch 80,Minya,Sherif Saad
+94412a76-b3f9-437d-980c-16dfdbcec597,Branch 81,New Cairo,Samir Said
+86000410-7378-4d30-b87f-a1b5cdbf642c,Branch 82,Sohag,Ola Khalaf
+a5dee7fc-1b0c-49a2-8275-856064236162,Branch 83,Minya,Hossam Adel
+b137a636-bcf5-4593-ba2c-0900b90b2435,Branch 84,Sohag,Eman Amin
+195c5551-18ad-464e-93e5-79853c79fe5a,Branch 85,Qena,Menna Morsi
+c9875e21-c58a-412d-b92f-67ac1a386b76,Branch 86,Fayoum,Yara Morsi
+7ce80a44-a7b9-4970-aa0d-d56fb23f0018,Branch 87,Sohag,Menna Raouf
+0e98aab6-d812-464b-9d10-4e47fb4415d1,Branch 88,Amman,Menna Amin
+8c6c84e8-9267-4be0-b4bd-23fa9cfe9e92,Branch 89,New Cairo,Ola Shoukry
+c80ad91c-1854-47de-b154-defa66552332,Branch 90,New Cairo,Maged Maher
+7f9947f3-c271-41e4-a48a-b6b7d06be58d,Branch 91,Kafr El-Sheikh,Maged Saad
+427803e2-e996-4904-944e-f3ff8457ab64,Branch 92,6th of October,Eman Raouf
+a0d9a965-f46a-4f93-982a-191d91c98dd8,Branch 93,Madinaty,Ola Lotfy
+5b2906d8-4f9d-48a4-9a0f-609ab9fdc6d0,Branch 94,Hurghada,Maged Amer
+ba8d8a0f-66c2-4041-b67d-fa7a27d28c07,Branch 95,El Rehab,Ola Khalaf
+b19faa50-1ff4-4651-81d8-e5bd663ab0ad,Branch 96,Amman,Nermeen Khalaf
+c2768dbf-12b9-49b2-b897-6b3c184dc302,Branch 97,Ismailia,Ola Lotfy
+833d79b8-3b59-48d2-82be-3aaff540c4a8,Branch 98,Cairo,Sherif Maher
+f068e54e-e932-4e0a-a6e0-9c90787987d7,Branch 99,Suez,Sherif Lotfy
+26425f41-7f1c-42a7-b2c2-88754c9e1e50,Branch 100,El Gouna,Eman Hamdy
+2745bd49-3d3f-4c9d-b2b8-a5c7e6c68f81,Branch 101,Jeddah,Rania Morsi
+7a46465e-76aa-419f-95c6-5fc8eef0bdce,Branch 102,Luxor,Nermeen Maher
+677c77a5-1a38-42d9-bd12-a713d6f3e084,Branch 103,Zagazig,Nermeen Adel
+c6cf1360-92f2-4a14-97cb-c07936832705,Branch 104,Sohag,Eman Maher
+4877cea8-9459-4278-b686-389ecf01d9d5,Branch 105,Doha,Hatem Raouf
+aaa2e96a-b1b4-4613-bcd6-174d0428ba7b,Branch 106,Dubai,Maged Amin
+d25f8f9a-981a-4548-9b7c-10dd50fa5a32,Branch 107,Obour,Hatem Raouf
+242356ad-a5db-4329-a14a-6b7c029e7926,Branch 108,Sheikh Zayed,Maged Hamdy
+da686a4e-11b5-4b19-be9c-71b0a41f0be7,Branch 109,Riyadh,Maged Shoukry
+978e0771-1b76-4292-9f46-e7b512fe0bd0,Branch 110,Port Said,Ola Khalaf
+6b2c7e09-a96d-4759-9c8a-58c8b31887e3,Branch 111,Amman,Hossam Saad
+856d5cdc-64b7-4a7b-aacb-8b2c1c4ed37a,Branch 112,Kafr El-Sheikh,Samir Amer
+0c0ce9f7-674f-4cec-a613-1c364a5bf771,Branch 113,Port Said,Yara Said
+25637525-6d7d-446e-99e3-8a3ec1e92b4e,Branch 114,Kafr El-Sheikh,Rana Raouf
+b20489eb-2673-4212-bfad-3b4674943a45,Branch 115,Dubai,Rana Saad
+13b421a9-a4e5-4887-b982-a878e1dbf2ea,Branch 116,Dubai,Eman Amer
+9cb33235-3122-427e-acb5-d6e327a021ac,Branch 117,Fayoum,Eman Saad
+3bc83c40-9b40-46cb-8526-f962be8c20dc,Branch 118,Tunis,Hossam Morsi
+704cb2aa-5f9a-4449-9aa2-fb77777f9287,Branch 119,Damietta,Menna Maher
+249d2122-e00c-4f8a-bd2c-19174416cf2a,Branch 120,6th of October,Maged Maher
+6bafdc3c-8d90-4793-b513-7683a30f0ae9,Branch 121,Doha,Yara Adel
+ed3e0c0c-a122-4f26-8072-dc8c171b874b,Branch 122,Beni Suef,Nermeen Hamdy
+b857e7f0-3848-4fda-8c0e-01917f6969aa,Branch 123,Alexandria,Menna Amin
+a0371854-a974-4186-b516-204179783a3b,Branch 124,Obour,Eman Raouf
+20c5f8c4-a03d-4ef3-b274-5c731a9c439a,Branch 125,Suez,Hossam Adel
+11fc657d-f84d-4552-ab69-c67d73fdac89,Branch 126,Ain Sokhna,Maged Amer
+f603758a-2be9-4ffd-b9b5-956999e4ccdc,Branch 127,Damietta,Eman Amer
+90709233-fa82-44c0-94e9-e2b7d34dc917,Branch 128,Minya,Ola Maher
+9bd32afd-8813-4b1a-968f-b6823c1c6731,Branch 129,El Gouna,Samir Amer
+d60eeee1-1479-47c8-86f3-dcda9dbd15ba,Branch 130,Helwan,Menna Amin
+10b353ec-31dc-4f6e-abd5-b913c3e5e6cb,Branch 131,Obour,Yara Raouf
+fa3b3165-7024-4687-a5fd-df1dee13a333,Branch 132,El Gouna,Nermeen Maher
+b8e23962-94ab-462a-8617-25effef330d5,Branch 133,Fayoum,Sherif Maher
+110d4d4f-4b97-4229-95a2-1f0c6cc298e5,Branch 134,Riyadh,Rana Raouf
+c78214a6-0212-4cef-a8cd-802f5a319356,Branch 135,Qena,Samir Hamdy
+5c714852-76a7-49f6-9b38-976075d95aad,Branch 136,Damietta,Maged Adel
+9b50893b-2f90-4e98-97f2-8ac999597504,Branch 137,Giza,Rana Raouf
+73de5355-9ded-4efb-b1cd-be80a377dd83,Branch 138,Mansoura,Rania Adel
+7661371f-87ad-471c-ae2d-79b52352c262,Branch 139,Helwan,Yara Raouf
+45440791-eff0-4d0b-bc27-504d467c6c17,Branch 140,Qena,Samir Amer
+78cc09bf-e049-4221-97b6-746b5b58f605,Branch 141,Giza,Samir Maher
+eb6aff34-95a8-4e89-8ff8-7c1cdf9847f0,Branch 142,Giza,Yara Shoukry
+799d048b-b9cc-4b57-8364-9ae8eedcc418,Branch 143,Assiut,Rania Amer
+418f0667-cd2d-4e17-8d03-c00f12c0d336,Branch 144,Riyadh,Rana Hamdy
+e5a7ed30-8654-4116-bdb8-e03cae9208f6,Branch 145,New Cairo,Sherif Hamdy
+af6c161a-5ed2-465e-a62d-01da21b92b1c,Branch 146,New Cairo,Hatem Maher
+9365b1f3-3da8-410b-bceb-9721d5265271,Branch 147,Nasr City,Hatem Amin
+0592a5ca-b72a-44e8-938f-06326fce3732,Branch 148,Alexandria,Nermeen Saad
+9cf54787-1fea-4d20-86f4-2e5a102dca47,Branch 149,Tanta,Nermeen Khalaf
+de657d5b-6d34-4622-9e5f-f1fba5177e43,Branch 150,Minya,Hatem Saad
+9ec53498-e067-40aa-b24d-4e276e9be57d,Branch 151,Ain Sokhna,Hossam Khalaf
+28f0b91b-b3dd-4a5b-b620-f35eeb56d067,Branch 152,Port Said,Hossam Said
+b84586d8-59e7-48e6-b3fb-b2af9e1694ac,Branch 153,Qena,Eman Amin
+4b9c5a1a-3de7-44cb-8a17-3d05080ebef9,Branch 154,Aswan,Yara Khalaf
+d1089a53-418d-40b9-8595-3f348108737b,Branch 155,Cairo,Nermeen Maher
+e5eb29bf-653a-4bcb-bd20-e9fbff21f125,Branch 156,Qena,Rania Raouf
+06a06135-495b-42c0-a71b-4c7438a9de18,Branch 157,New Cairo,Eman Lotfy
+566f97fd-d95d-4fee-81e9-f74d32bafe6d,Branch 158,New Cairo,Hatem Shoukry
+a3b85af6-7868-4deb-aae9-07af7476f4f9,Branch 159,Zagazig,Maged Khalaf
+2c0ef64b-fa2d-4a92-8b10-32dcff8cede8,Branch 160,Casablanca,Maged Lotfy
+4ae4a275-76c0-4a78-a84d-da4837d313e6,Branch 161,El Gouna,Maged Adel
+6c8af7a4-2ece-4418-b078-2489a25b385f,Branch 162,Alexandria,Hossam Adel
+f7409d90-2273-4ad7-a911-a6e5f5a2e091,Branch 163,Hurghada,Yara Amer
+532696e6-716b-4e97-9e20-2d155383cf86,Branch 164,Fayoum,Hatem Lotfy
+59021f6e-e934-40c3-b80c-d073ef01558e,Branch 165,Sharm El Sheikh,Hatem Khalaf
+89bdb4bf-4a6c-4708-be67-3e26364f2a7c,Branch 166,Ain Sokhna,Hatem Said
+d5060739-a20e-4869-a228-35dd287f12a2,Branch 167,Tunis,Rana Amin
+d752fd04-12a7-4043-a427-b74d3b90a563,Branch 168,Aswan,Maged Khalaf
+a2729e57-ccbf-44da-9f53-d42bbd67461e,Branch 169,El Gouna,Ola Shoukry
+5bcb059f-a776-457b-aa84-ec86886b7fe2,Branch 170,Qena,Hossam Adel
+cdec61e7-1ad3-4029-9a72-04dfb95ee5a6,Branch 171,Suez,Ola Adel
+321883e4-455e-4b74-aa5a-57dcadef6f40,Branch 172,El Gouna,Maged Shoukry
+8481aaff-3db0-47a2-a6ae-10bb903dc7ad,Branch 173,Riyadh,Sherif Amer
+1c48fe66-fd44-41d0-a22a-1de4ef23fe91,Branch 174,Tanta,Nermeen Raouf
+f6f9d8fe-0891-49f2-88eb-d5736c9f4078,Branch 175,Riyadh,Yara Shoukry
+08679f63-4b9a-4af8-8134-544a4734ef41,Branch 176,Mansoura,Eman Lotfy
+d8b016b5-402a-4402-bb66-e09e21ba1d3f,Branch 177,El Shorouk,Menna Raouf
+3a45ad0f-b6ec-40d0-8292-9ceb521b033c,Branch 178,Casablanca,Nermeen Hamdy
+336abdba-952b-4880-abe5-ccff5d2c9525,Branch 179,Madinaty,Rania Maher
+489d3116-afe1-4c50-bbe3-8222436adb18,Branch 180,Tunis,Rana Amer
+82d90a9c-b2c8-424b-ad2b-940043c1574f,Branch 181,Mansoura,Eman Khalaf
+7e27f9f1-4abd-48f5-a111-9356fa018226,Branch 182,Abu Dhabi,Hossam Saad
+3f9b1145-6e9f-4f9a-9847-e21b99c27d72,Branch 183,Luxor,Rania Adel
+2d973dec-b184-4309-a96a-c0f4e3ccf139,Branch 184,Zagazig,Sherif Maher
+411ad182-0676-4d19-b1b6-356a2168b475,Branch 185,Zagazig,Sherif Adel
+5e08f1e7-6f70-4612-a55d-6d4019efc19c,Branch 186,Ismailia,Hossam Adel
+c7ebbc3c-c808-4e3a-bae6-a9a596676cbe,Branch 187,El Rehab,Eman Adel
+2d01842a-2f56-48c9-90a5-18c1d36a07ac,Branch 188,Assiut,Yara Maher
+13bbf057-23e4-4867-8c36-425db525f8c1,Branch 189,Damietta,Eman Maher
+cf04d6ed-2832-43c9-8fb1-9a593dff0412,Branch 190,Fayoum,Maged Shoukry
+edd8ac6f-cdc4-4abc-99d6-fa369e89de86,Branch 191,Luxor,Yara Shoukry
+a982559c-0045-46bf-8f96-75377ae0b627,Branch 192,Abu Dhabi,Rania Saad
+36cbd931-eb46-4d8c-bbf0-7520ed4fb44f,Branch 193,Zagazig,Hatem Amin
+16a1e7a9-2c68-4709-b596-42dedeed27ca,Branch 194,Doha,Sherif Amin
+2790019c-384c-4f0c-9d68-3e6685373eb6,Branch 195,Tanta,Rania Shoukry
+8b9b5136-7bc2-4a64-bbce-69a445874cc5,Branch 196,Ain Sokhna,Samir Lotfy
+ef230f5f-2f81-4473-8973-249b48d53dcf,Branch 197,Minya,Samir Hamdy
+df7dbb4c-9d11-49f5-b4bd-735bb6ea3345,Branch 198,Ain Sokhna,Menna Amin
+b55d7d24-f010-45b0-bec2-507e17904025,Branch 199,Port Said,Eman Saad
+5a36f508-1a3a-45bf-93e0-55712a4764a4,Branch 200,Giza,Eman Raouf
